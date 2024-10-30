@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "45478532503",
+    "firebase_url": "https://map-lec-c863b-default-rtdb.firebaseio.com",
+    "project_id": "map-lec-c863b",
+    "storage_bucket": "map-lec-c863b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45478532503:android:3849a1b4ef364f29fee0d2",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YUpfBVKCAcsRAArI1g4YwXvLEf7-_tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
